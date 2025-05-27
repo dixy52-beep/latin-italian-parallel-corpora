@@ -1,4 +1,4 @@
-### Ancient Latin-Italian Translation Dataset (30.000 sentences)
+### Ancient Latin-Italian Translation Dataset (30.000 sentences) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15530134.svg)](https://doi.org/10.5281/zenodo.15530134)
 
 If you use this dataset, please cite the original `latin_english_parallel` dataset and this derived work.
 

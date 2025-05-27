@@ -103,7 +103,7 @@ print(dataset["train"][0])
 # }
 ```
 
-## Citation
+# Citation
 
 If you use this dataset in your research, please cite both the original `latin_english_parallel` dataset and this derived work:
 
@@ -128,7 +128,7 @@ If you use this dataset in your research, please cite both the original `latin_e
 }
 ```
 
-# #DATASET info
+## #DATASET info
 
 ```yaml
 ---
